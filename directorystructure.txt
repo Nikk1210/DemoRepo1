@@ -9,4 +9,8 @@
                1 File(s)            115 bytes
                2 Dir(s)  734,793,146,368 bytes free
 "Hey this is my git directory info"
+<<<<<<< HEAD
 Hey there 
+=======
+insertion 
+>>>>>>> myBranch
