@@ -1,4 +1,4 @@
- Volume in drive P is 1446
+ Volume in drive P is 1446 
  Volume Serial Number is 0000-034D
 
  Directory of P:\Offshore\Atish\Extra\GitRepo
@@ -8,3 +8,4 @@
 05/07/2017  04:06 PM               115 directorystructure.txt
                1 File(s)            115 bytes
                2 Dir(s)  734,793,146,368 bytes free
+"Hey this is my git directory info"
